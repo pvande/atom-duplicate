@@ -1,0 +1,15 @@
+{
+  "name": "Duplicate",
+  "main": "./lib/atom-duplicate",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Emulating the \"Duplicate Line\" functionality from TextMate",
+  "activationEvents": ["atom-duplicate:duplicate"],
+  "repository": "https://github.com/pvande/atom-duplicate",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
